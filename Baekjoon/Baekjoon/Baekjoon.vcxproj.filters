@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="평균.cpp">
+    <ClCompile Include="평균.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
